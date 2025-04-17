@@ -54,5 +54,5 @@ dependencies {
 }
 sourceSets.main.resources {
     srcDir 'src/main/java'
-    filter.include('com/rm/domain/**/*.xml')
+    filter.include('com/fs/domain/**/*.xml')
 }
